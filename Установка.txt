@@ -31,6 +31,6 @@ P.S. Менять настройки или что-то еще не нужно, 
 Исходный global-metadata.dat:
 c2de35b64cf96c99f49ec8e5ce894200687e6433ea0c02177ac6eea640ce0180
 Русский global-metadata.dat:
-3453d0eab9d63968175e981261d8fc99c442dc89debd1620c98d845db5f8c8cf
+83c142fba65453ed224c39879ab4dde66ed49e41857df045806fa3369f8b6bbc
 
 Вся работа выполнена GPT 6 Astra Ultra (effort субагентов - max), в т.ч первоначальный анализ, извлечение строк для перевода, сам перевод
